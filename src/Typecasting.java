@@ -1,4 +1,4 @@
-public class typeCasting {
+public class Typecasting {
     public static void main(String[] args) {
         int number = 10;
         float number1 = number;
