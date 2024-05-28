@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2832c070-b826-41ef-a481-2604284a5a86" name="Changes" comment="" />
+    <list default="true" id="2832c070-b826-41ef-a481-2604284a5a86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/typeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
     "Application.Main.executor": "Run",
     "Application.Userinfo.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Application.typeCasting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
