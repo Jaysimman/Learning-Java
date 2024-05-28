@@ -4,9 +4,11 @@ public class Datatypes {
         float number2=20.2f;
         String name="Jay";
         char word='S';
+        boolean myBool = true;
         System.out.println(number1);
         System.out.println(number2);
         System.out.println(name);
         System.out.println(word);
+        System.out.println(myBool);
     }
 }
