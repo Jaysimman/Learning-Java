@@ -37,6 +37,7 @@
     "Application.Datatypes.executor": "Run",
     "Application.Helloworld.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Operators.executor": "Run",
     "Application.Userinfo.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.typeCasting.executor": "Run",
